@@ -1,0 +1,27 @@
+* {
+  align-items: center;
+}
+h1 {
+  text-align: center;
+  color: black;
+  text-transform: capitalize;
+}
+img {
+  width: auto;
+  height: 500px;
+}
+h4 {
+  text-decoration: underline;
+}
+p {
+  text-align: justify;
+  color: grey;
+}
+#steps {
+  text-align: center;
+  color: gray;
+}
+
+#headin {
+  color: black;
+}

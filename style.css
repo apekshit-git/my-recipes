@@ -1,0 +1,14 @@
+* {
+  text-align: center;
+  align-items: center;
+  background-color: linear-gradient(cyan, black);
+}
+
+h1 {
+  font-weight: bold;
+}
+
+h1:hover {
+  border: 2pt solid black;
+  color: blue;
+}
